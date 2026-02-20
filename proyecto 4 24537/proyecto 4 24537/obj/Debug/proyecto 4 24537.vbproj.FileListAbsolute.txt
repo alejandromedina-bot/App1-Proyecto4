@@ -22,3 +22,27 @@ C:\Users\win512\Downloads\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 245
 C:\Users\win512\Downloads\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.exe
 C:\Users\win512\Downloads\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.pdb
 C:\Users\win512\Downloads\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.xml
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.exe.config
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.exe
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.pdb
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.xml
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.vbprojAssemblyReference.cache
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto_4_24537.Form1.resources
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto_4_24537.Resources.resources
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.vbproj.GenerateResource.cache
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.vbproj.CoreCompileInputs.cache
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.exe
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.xml
+C:\Alejandro Medina 24537\proyecto 4 24537\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.pdb
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.exe.config
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.exe
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.pdb
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\bin\Debug\proyecto 4 24537.xml
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto_4_24537.Form1.resources
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto_4_24537.Resources.resources
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.exe
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.xml
+C:\Users\win512\Downloads\App1-Proyecto4-main (1)\App1-Proyecto4-main\App1-Proyecto4-main\proyecto 4 24537\proyecto 4 24537\obj\Debug\proyecto 4 24537.pdb
